@@ -1,0 +1,7 @@
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\bin\Debug\Ch-17 lamda expression.exe.config
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\bin\Debug\Ch-17 lamda expression.exe
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\bin\Debug\Ch-17 lamda expression.pdb
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\obj\Debug\Ch-17 lamda expression.csprojAssemblyReference.cache
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\obj\Debug\Ch-17 lamda expression.csproj.CoreCompileInputs.cache
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\obj\Debug\Ch-17 lamda expression.exe
+D:\c#\class time work\chapter-16 intex\Ch-17 lamda expression\obj\Debug\Ch-17 lamda expression.pdb
